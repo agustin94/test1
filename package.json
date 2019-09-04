@@ -1,0 +1,24 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "prueba para despues probar en otro file importante",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "el lince",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.5.5",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "faker": "^4.1.0",
+    "jest": "^24.9.0",
+    "puppeteer": "^1.19.0"
+  }
+}
